@@ -1,0 +1,10 @@
+project:
+  language: node
+  language_version: "18.x"
+  type: application
+  name: "example"
+  working_directory: "."
+  artifacts_directory: "./dist"
+
+terraform:
+  path: "terraform"

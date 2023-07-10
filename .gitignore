@@ -1,0 +1,11 @@
+node_modules
+dist
+
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+.infracost
+.npmrc
+.env
+.yarn.lock
+```
